@@ -3,30 +3,32 @@
     padding: 0;
 }
 .contenedor{
+    
     width: 100%;
-    display: grid;
+    display: flex;
     margin: 0 auto;
 }
 
 .Verde {
-    width: 630px;
-    height: 100vh;
+
     background-color: green;
+    width: 510px;
+    height: 100vh;
 }
 .Blanco{
-    width: 630px;
+    width: 510px;
     height: 100vh;
     background-color: white;
-    display: flex;
+    display: grid;
     justify-content: center;
     align-items: center;
     
 }
-.Unidad img{
-    width: 220px;
+.Blanco img{
+    width: 320px;
 }
 .Rojo {
-    width: 630px;
+    width: 510px;
     height: 100vh;
     background-color: red;
     
