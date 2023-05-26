@@ -15,5 +15,9 @@
 
 .BLANCO{
     width: 50px;
-    
+    height: 100vh;
+    background-color: white;
+    display: grid;
+    justify-content: center;
+    align-items: center;
 }
