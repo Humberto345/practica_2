@@ -4,8 +4,10 @@
 }
 #contenerdor{
     width: 100%;
-    display: flex;
-    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: 2fr 3fr 2fr;
+    height: 100px;
 }
 .VERDE{
     width: 250px;
