@@ -5,8 +5,8 @@
 #contenerdor{
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(2,1fr);
-    grid-template-rows: 2fr 3fr 2fr;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: 3fr 2fr 3fr;
     height: 100px;
 }
 .VERDE{
@@ -23,8 +23,11 @@
     justify-content: center;
     align-items: center;
 }
+.BLANCO img{
+    width: 250px;
+}
 
-#ROJO{
+.ROJO{
     width: 250px;
     height: 100vh;
     background-color: red;
