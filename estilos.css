@@ -9,13 +9,13 @@
     grid-template-rows: 2fr 3fr 2fr;
     height: 100px;
 }
-.VERDE{
+#VERDE{
     width: 250px;
     height: 100vh;
     background-color: green;
 }
 
-.BLANCO{
+#BLANCO{
     width: 250px;
     height: 100vh;
     background-color: white;
@@ -24,7 +24,7 @@
     align-items: center;
 }
 
-.ROJO{
+#ROJO{
     width: 250px;
     height: 100vh;
     background-color: red;
