@@ -8,13 +8,13 @@
     margin: 0 auto;
 }
 .VERDE{
-    width: 50px;
+    width: 250px;
     height: 100vh;
     background-color: green;
 }
 
 .BLANCO{
-    width: 50px;
+    width: 250px;
     height: 100vh;
     background-color: white;
     display: grid;
@@ -23,7 +23,7 @@
 }
 
 .ROJO{
-    width: 50px;
+    width: 250px;
     height: 100vh;
     background-color: red;
 }
