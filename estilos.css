@@ -7,3 +7,13 @@
     display: flex;
     margin: 0 auto;
 }
+.VERDE{
+    width: 50px;
+    height: 100vh;
+    background-color: green;
+}
+
+.BLANCO{
+    width: 50px;
+    
+}
